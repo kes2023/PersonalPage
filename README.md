@@ -1,5 +1,3 @@
-theme: minima
-
 # Персональная страница 
 
 #### Евгений Конев
@@ -14,3 +12,4 @@ theme: minima
 
 ![](https://i.imgur.com/3kieyAV.jpg)
 
+theme: Minima
